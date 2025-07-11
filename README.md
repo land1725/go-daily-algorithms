@@ -15,7 +15,7 @@
 - 时间复杂度：O(n)
 - 空间复杂度：O(n)
 
-**LeetCode链接**：https://leetcode-cn.com/problems/two-sum/
+**LeetCode链接**：[两数之和](https://leetcode-cn.com/problems/two-sum/)
 
 ---
 
@@ -32,7 +32,7 @@
 - 时间复杂度：O(n)
 - 空间复杂度：O(1)
 
-**LeetCode链接**：https://leetcode-cn.com/problems/single-number/
+**LeetCode链接**：[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 
 ---
 
@@ -47,7 +47,8 @@
 - 反转数字后半部分与前半部分比较
 - 处理特殊情况（负数、末尾为0的数字）
 
-**LeetCode链接**：https://leetcode.cn/problems/palindrome-number/description/
+**LeetCode链接**：[回文数](https://leetcode.cn/problems/palindrome-number/description/)
+
 ---
 
 ### 2. 有效的括号
@@ -64,7 +65,7 @@
 - 时间复杂度：O(n)
 - 空间复杂度：O(n)
 
-**LeetCode链接**：https://leetcode-cn.com/problems/valid-parentheses/
+**LeetCode链接**：[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 
 ---
 
@@ -82,7 +83,7 @@
 - 时间复杂度：O(n×m)
 - 空间复杂度：O(1)
 
-**LeetCode链接**：https://leetcode-cn.com/problems/longest-common-prefix/
+**LeetCode链接**：[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
 
 ---
 
@@ -98,7 +99,7 @@
 - 从末尾开始处理进位
 - 特别注意全为9的特殊情况
 
-**LeetCode链接**：https://leetcode-cn.com/problems/plus-one/
+**LeetCode链接**：[加一](https://leetcode-cn.com/problems/plus-one/)
 
 ---
 
@@ -115,7 +116,7 @@
 - 时间复杂度：O(n)
 - 空间复杂度：O(1)
 
-**LeetCode链接**：https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+**LeetCode链接**：[删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 
 ---
 
@@ -132,4 +133,4 @@
 - 时间复杂度：O(nlogn)
 - 空间复杂度：O(logn)
 
-**LeetCode链接**：https://leetcode-cn.com/problems/merge-intervals/
+**LeetCode链接**：[合并区间](https://leetcode-cn.com/problems/merge-intervals/)  
