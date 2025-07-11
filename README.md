@@ -47,6 +47,7 @@
 - 反转数字后半部分与前半部分比较
 - 处理特殊情况（负数、末尾为0的数字）
 
+**LeetCode链接**：https://leetcode.cn/problems/palindrome-number/description/
 ---
 
 ### 2. 有效的括号
